@@ -1,0 +1,8 @@
+E:\LessonPro\TestConsole\bin\Release\TestConsole.exe.config
+E:\LessonPro\TestConsole\bin\Release\TestConsole.exe
+E:\LessonPro\TestConsole\bin\Release\TestConsole.pdb
+E:\LessonPro\TestConsole\bin\Release\LessonProScanConnect.dll
+E:\LessonPro\TestConsole\bin\Release\LessonProScanConnect.pdb
+E:\LessonPro\TestConsole\obj\Release\TestConsole.csprojResolveAssemblyReference.cache
+E:\LessonPro\TestConsole\obj\Release\TestConsole.exe
+E:\LessonPro\TestConsole\obj\Release\TestConsole.pdb
